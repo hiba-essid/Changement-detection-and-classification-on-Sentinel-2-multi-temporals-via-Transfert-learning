@@ -202,3 +202,4 @@ DetectChange/
 `<sub>`{=html}Project proposal for the 2026--2027 academic year. The
 experiments and implementation are planned work; results will be added
 as they become available.`</sub>`{=html}
+# Changement-detection-and-classification-on-Sentinel-2-multi-temporals-via-Transfert-learning
